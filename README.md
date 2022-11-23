@@ -12,8 +12,13 @@ MATERIA: Fundamentos de Circuitos electricos
 
 * Objetivo General
 
+Analizar conceptos de circuitos en serie y paralelo asi como la ley de Kirchhoff
 
  * Objetivos especificos
+ 
+ Aplicar la ley de Kirchhoof para resolver problemas planteados
+ 
+ Utilizar notaciones de ingenieria en corriente, resistencias y voltajes
  
  
 ## 2.Marco Teorico (Resumen)
@@ -36,10 +41,20 @@ MATERIA: Fundamentos de Circuitos electricos
 
 
 
+## 3. Explicacion y resolucion de ejercicios
 
 
+2)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie
 
+![image](https://user-images.githubusercontent.com/116810935/203664595-8c406bc2-3bdc-4630-a1c4-a19b6699e3a6.png)
 
+Para interconecta las puntas de los resistores en seria se debe conectar la punta del resistor 8 en el resistor 7, la punta del resistor 4 con la del 5 y la punta del resistor 2 con la del 6
+
+4)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie
+
+![image](https://user-images.githubusercontent.com/116810935/203664652-9f7a2481-27c5-4a91-b120-ccb7d95ad29a.png)
+
+Los resitores que estan conectados en serie son 6,8 y el resistor 12
 
 
 
