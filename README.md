@@ -645,7 +645,7 @@ d)El voltaje aplicado
  
  ## 5.Conlusión 
  
- * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la ley de Ohm sirve para encontrar ya sea intensidad de corriente electrica, voltaje o resistencia tambien es posible evidenciar la relacion de la ley de watt para encontrar nuevos conceptos como potencia y enerigia.
+ * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la ley de Kirchhoff y conceptos como nodos, circuitos en serie, circuitoe en paralelo es es posible evidenciar la relacion que existe con la ley de ohm para resolver ejercios.
   
 * Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró definir formulas muy importantes.
 
@@ -653,6 +653,8 @@ d)El voltaje aplicado
 ## 6. Bibliografía
 
 * Floyd, T.(2007). Principios de circuitos electricos(Octava edi). México Pearson
+
+* https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
 
 
