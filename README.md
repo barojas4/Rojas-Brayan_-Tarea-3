@@ -245,21 +245,39 @@ d)7.2V
 
 ![image](https://user-images.githubusercontent.com/116810935/203682660-118bf40b-e2c7-4308-bf1f-7e541d961b9e.png)
 
+Sumar las resistencias 
+
+a) Rt = 156 Ω
+
+V = (56/156) x 12V = 4.31V
+
+b) Rt = 6500 Ω
+
+V= (5500/6500) x 8V = 6.77V
+
+40)Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b)
+
+![image](https://user-images.githubusercontent.com/116810935/203684120-2d53ef22-8114-49f8-a279-663b6019c00c.png)
+
+V = (1470/2150) * 12 = 8.2 V minimo 
+
+V = (1680/2150) * 12 = 9.38V maximo
 
 
+42)En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería
+
+![image](https://user-images.githubusercontent.com/116810935/203684338-f521db2c-abfa-448c-8639-3a0ab0bad68a.png)
 
 
+Ve-fe-f=(5600/108600)* 100=5.16V
 
+Vd-f=(20600/108600)* 100=18.97V
 
+Vc-f=(76600/108600)* 100=70.53V
 
+Vb-f=(86600/108600)* 100=79.74V
 
-
-
-
-
-
-
-
+Va-f-f=(108600/108600)* 100=100V
 
 
 
