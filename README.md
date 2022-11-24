@@ -280,21 +280,68 @@ Vb-f=(86600/108600)* 100=79.74V
 Va-f-f=(108600/108600)* 100=100V
 
 
+48) Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal depotencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
 
+Vs=(PtxRt)1/2= 3225V
+
+Dado esto el resistor que tenga un voltaje mayor a 1.2V se quemará
+
+50)Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400Ω . Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
+
+a) I = (PtxRt)^1/2 = 45.83 A
+
+b)Vs = Pt/I =19mV
+
+c) R = I^2 / P ======> ( R1=300Ω, R2=600Ω, R3=1200Ω)
 
 
+52)En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor)
 
 
+Aplicar Vs=(PtxRt)1/2
+
+Por siguiente aplicar ley de Ohm I = V/R
+
+54)Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+Puede existir alguna apertura en álgun resistor 
+
+Medira 12V por que no tiene caidas de voltaje 
+
+56)¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
 
+![image](https://user-images.githubusercontent.com/116810935/203685171-8fa09bee-b496-417a-b204-bef7e4995e10.png)
+
+Tedria que medir R1
+
+58)Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo
+
+![image](https://user-images.githubusercontent.com/116810935/203685242-39a5fa1c-c87d-4fef-98a3-5f4f6e154421.png)
+
+Tendra un problema ya que una apertura puede ser creada por un interruptor 
+
+60)Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W
 
 
+![image](https://user-images.githubusercontent.com/116810935/203685354-946e5c8f-b661-4e38-9bca-ea34749f14d3.png)
 
+a)¿Qué sucedió? 
 
+Se abre un resistor 
 
+b)¿Qué debe hacere para arreglar el problema?
 
+Se debe encontrar el resistor abierto utilizando un multimetro 
 
+c)¿Con qué voltaje ocurrió la falla?
+
+1/2 (RT) = 12V
+
+RT = 24V
+
+Pasa 24V a través del resistor abierto y 0V en el resto de resitores
 
 
 
