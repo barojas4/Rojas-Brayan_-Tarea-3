@@ -602,10 +602,41 @@ Rt = Pt / It2
 Rt = 26.9Ω
 
 
+It = 681 + 681 + 681 + 681 + 681 + 681
 
+It = 4086 mA
 
+40)Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
+P = V2/R 
 
+R = (110)2 / 75 
+
+R = 161.33Ω
+
+I = 110/161.33
+
+I=0.68mA
+
+It = 6(0.68mA)4.09mA
+
+42)Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
+a)El número de resistores 
+
+b)El valor de cada resistor
+
+c)La corriente de cada suma 
+
+d)El voltaje aplicado
+
+44)En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![image](https://user-images.githubusercontent.com/116810935/203858703-b58501b3-9301-45bd-ae2b-dc52bb7f8549.png)
+
+46)¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![image](https://user-images.githubusercontent.com/116810935/203858744-2e7a2d3a-c2b9-477f-9dbc-8d9fcaa3c42e.png)
 
 
 
