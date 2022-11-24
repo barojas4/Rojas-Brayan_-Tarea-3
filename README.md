@@ -344,6 +344,96 @@ RT = 24V
 Pasa 24V a través del resistor abierto y 0V en el resto de resitores
 
 
+### Ejercicio de capitulo 6
+
+
+2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+
+![image](https://user-images.githubusercontent.com/116810935/203685886-91af0884-3621-42d5-af89-3dc7d31539ed.png)
+
+Si todos estan conectados en paralelo y tienen mas de una sola trayectoria para la corriente que circula entre dos puntos 
+
+
+4)¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550Ω? Hay cuatro resistores, todos de igual valor
+
+
+Corriente de 12 V ya que es porque es un circuito en paraleo
+
+Pero en el caso de haber 4 resistores y todos son de igual valor: R = 550/4= 137.5Ω
+
+Para calcular la corriente I = V/R
+
+I = 12/137.5 = 0.087A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
