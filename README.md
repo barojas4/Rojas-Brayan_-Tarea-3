@@ -372,6 +372,310 @@ I = 12/137.5 = 0.087A
 
 ![image](https://user-images.githubusercontent.com/116810935/203686975-1f81fe89-d53b-4a40-b7b7-4a9ef8a38c64.png)
 
+Rt = 0.42 kΩ
+
+B = 0.49 kΩ
+
+C = 0.64 kΩ
+
+8)Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor
+
+![image](https://user-images.githubusercontent.com/116810935/203853267-3f3838f0-a39f-4f24-b46c-4b0e7383b951.png)
+
+
+a)R1 = 15/1 = 15mA 
+
+b)R2 = 15/1.8 = 8.33mA 
+
+c)R3 = 15/2.2 = 6.81 
+
+d)R4 = 15/2.7 = 5.5mA
+
+IT = I1 + I2 + I3 + I4
+
+Para A la corriente total es la ruma de las 4 corrientes, entonces IT = 35.64 mA
+
+Para B la corriente total es la ruma de las corrientes I1, I2 e I3, entonces IT=30.14mA
+
+Para A la corriente total es la ruma de las corrientes I1 e I2, entonces IT=23.33mA
+
+Calcular las corrientes de cada resitor 
+
+10)Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+
+
+It = I1 + I2 + I3 + I4 + I5
+
+I5 = It - I1 + I2 + I3 + I4
+
+I5 = 500 - 50 - 150 - 25 - 100 
+
+I5 = 175 mA
+
+12)En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica
+
+![image](https://user-images.githubusercontent.com/116810935/203855203-146f37e1-fede-4124-874d-90b656dba8a1.png)
+
+
+
+14)Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total
+
+Utilizar la formula:
+
+![image](https://user-images.githubusercontent.com/116810935/203855251-d891d99a-1a73-492a-b1f4-89397414f933.png)
+
+Rt = 0.57 MΩ
+
+6)Calcule RT en cada uno de los circuitos de la figura.
+
+![image](https://user-images.githubusercontent.com/116810935/203855322-d12fa84c-21b2-4a56-9318-67af616739d2.png)
+
+
+Para estos calculos se utilizará la formula:
+
+a)Rt = 157.94Ω
+
+b)Rt = 18.21kΩ
+
+c)Rt = 0.89kΩ
+
+
+18)Tres grupos, uno de cinco resistores de 470Ω, otro de diez resistores de 100Ω, y uno más de dos resistores de 100Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos
+
+1) RT=R/n
+
+RT = 470/5 = 94 Ω
+
+2)  RT=R/n
+
+RT = 100/10 = 10 Ω
+
+1) RT=R/n
+
+RT = 100/2 = 50 Ω
+
+20)Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
+
+
+![image](https://user-images.githubusercontent.com/116810935/203855689-755158c9-465f-4a96-8442-ac60b5dc0bf7.png)
+
+1/389.2 = (1/168+1) R2 
+
+1/R2 = 1/389.2 - 1/680
+
+22)¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+
+![image](https://user-images.githubusercontent.com/116810935/203855776-ada232d1-486a-422f-ae67-5c2799033cb5.png)
+
+Resolver por ley de ohm 
+
+a) RT = 10.24 Ω
+
+I = V/R ===> I = (10 V / 10.24 Ω) = 0.9765mA
+
+b) RT = 333.5 Ω
+
+I=V/R ===> I = (25 V/ 333.5 Ω) = 0.07mA
+
+24)Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+
+Ley de ohm 
+
+R = V/I 
+
+R = (5 V / 1.11 mA) = 4.50 kΩ
+
+Cada resitpr mide 1250 Ω
+
+
+26)Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74
+
+
+![image](https://user-images.githubusercontent.com/116810935/203856394-3efc6aed-6731-4fde-90f1-0827af183499.png)
+
+
+
+Is = I1 + I2
+
+I2 = 150mA - 100mA = 50 mA
+
+R2 = Vs / I2 
+
+R2 = (10/50) = 0.2 kΩ
+
+R1 = Vs / I1 = 10/100
+
+R1 = 0.1kΩ 
+
+28)Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76
+
+
+![image](https://user-images.githubusercontent.com/116810935/203856610-599bde11-7f10-4ee3-b3e7-28c7c6d508aa.png)
+
+
+a) Is = I1 + I2 = 3mA
+
+Rl =Vs/3mA
+
+b)Is = I1 + I2
+
+I2 = Is - I1 = 50µA - 40µA = 10µA
+
+I2 = Vs / 10µA
+
+c)Is = I1 + I2 + I3
+
+Is = 1A - 2.5A + 2A = 0.5A
+
+Is = Vs / 0.5A
+
+30)Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78
+
+
+![image](https://user-images.githubusercontent.com/116810935/203856813-3f2d2661-a4ce-4c57-b9a7-1b7af6a46138.png)
+
+
+Rt = (1x2.7) kΩ / (1+2.7kΩ) = 0.73kΩ
+
+I1 = Vs / 1kΩ = (81/37)A
+
+I2 = 0.81A
+
+Is = I1 + I2 
+
+3A = Vs + Vs/2.7kΩ
+
+Vs = (81/37)V
+
+32)¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/116810935/203856978-b17716c1-9ed4-40cd-9cc5-1f56b7767bab.png)
+
+25/12R = 1/Rt
+
+Rt = 12/25Ω 
+
+Vs= 12R/5
+
+I1 = 12/5 = 1.4 A
+
+I2=12/10 = 1.2 A
+
+I3=12/15 = 0.8 A
+
+I4=12/20 = 0.6 A
+
+34)¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica
+
+![image](https://user-images.githubusercontent.com/116810935/203857391-8cabe33c-5ccf-48cf-907d-b9b5aea6726c.png)
+
+
+I1 = V/R1
+
+V = I1 x R1 
+
+V = 0.001 A x 50 Ω
+
+V = 2x10^-5 V
+
+R2 = V/I2 = (0.05 V)/ (0.09 mA) = 5.55mA
+
+
+38)Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+
+Pt = V x It 
+
+It = P/V 
+
+It = (450)/(110)
+
+It = 4.09A
+
+Pt = It2 x Rt
+
+Rt = Pt / It2 
+
+Rt = 26.9Ω
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
