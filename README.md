@@ -645,7 +645,7 @@ d)El voltaje aplicado
  
  ## 5.Conlusión 
  
- * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la ley de Kirchhoff y conceptos como nodos, circuitos en serie, circuitoe en paralelo es es posible evidenciar la relacion que existe con la ley de ohm para resolver ejercios.
+ * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente, se entiende que la ley de Kirchhoff y conceptos como nodos, circuitos en serie y circuitos en paralelo estan relacionados entre si, gracias a esto nos es posible solucionar problemas realcionados con la electrónica.
   
 * Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró definir formulas muy importantes.
 
