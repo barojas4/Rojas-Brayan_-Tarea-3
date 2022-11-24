@@ -639,6 +639,20 @@ d)El voltaje aplicado
 ![image](https://user-images.githubusercontent.com/116810935/203858744-2e7a2d3a-c2b9-477f-9dbc-8d9fcaa3c42e.png)
 
 
+ ## 4. Video
+ 
+ link del video: 
+ 
+ ## 5.Conlusión 
+ 
+ * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la ley de Ohm sirve para encontrar ya sea intensidad de corriente electrica, voltaje o resistencia tambien es posible evidenciar la relacion de la ley de watt para encontrar nuevos conceptos como potencia y enerigia.
+  
+* Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró definir formulas muy importantes.
+
+
+## 6. Bibliografía
+
+* Floyd, T.(2007). Principios de circuitos electricos(Octava edi). México Pearson
 
 
 
