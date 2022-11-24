@@ -167,6 +167,125 @@ R2=8.7814/12.3=713.9Ω
 
 R3=2.21/12.3=179.67Ω
 
+26)Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado
+
+![image](https://user-images.githubusercontent.com/116810935/203672218-9c976466-11df-4692-af61-98cc0b7217e2.png)
+
+
+Sumar las resistencias 
+
+RT= 1.0 + 33 + 68 + 27 + 22 = 151 kΩ
+
+Ley de ohm 
+
+I= 9V / 151 kΩ = 5.69x10-5
+
+28) El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+
+VAB= 12V-3V = 9V
+
+30)Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
+
+Sacar el voltaje total 
+Vt = V1 + V2 + V3
+Vt = 5.5 V + 8.2 V + 12.3 V = 26 V
+
+32)Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestrecómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+
+![image](https://user-images.githubusercontent.com/116810935/203676357-ab2cf7bd-d775-4ab1-9f76-39e05baacfab.png)
+
+a) 2V + V2 + 3.2 V + 1V +1.5V + 0.5V - 15V = 0
+
+V2=6.8V
+
+b) 8V +16V +24V + 32V + 8V - Vs 
+
+Vs = 88 V
+
+34)Encuentre R1, R2 y R3 en la figura 5-82
+
+![image](https://user-images.githubusercontent.com/116810935/203677642-e58965f0-8e71-4018-b30a-efa88c3dbb7a.png)
+
+
+R1= V/I = 5.6/0.01 = 560 Ω
+
+P2 = I2* R2
+
+R2 = 220 Ω
+
+V=0.01 * 220 = 2.2v --------> -9V+5.6V+2.2V+V3 
+
+V3=1.2V
+
+R3 = 1.2/0.01 = 120 Ω
+
+R1= V/I = 5.6/0.01=560Ω
+
+P2=I2* R2
+
+R2=220Ω
+
+V=0.01 * 220=2.2v --------> -9V+5.6V+2.2V+V3; V3=1.2V
+
+R3 = 1.2/0.01 = 120 Ω
+
+36)Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor
+
+![image](https://user-images.githubusercontent.com/116810935/203682532-14a41956-c926-4bb4-9346-ae6f61bd788c.png)
+
+a) 4.0 V
+
+b) 4.5V 
+
+c) 5.4V
+
+d)7.2V
+
+38)Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84
+
+![image](https://user-images.githubusercontent.com/116810935/203682660-118bf40b-e2c7-4308-bf1f-7e541d961b9e.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
