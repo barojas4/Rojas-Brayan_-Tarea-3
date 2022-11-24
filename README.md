@@ -366,6 +366,12 @@ Para calcular la corriente I = V/R
 
 I = 12/137.5 = 0.087A
 
+6)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6
+
+![image](https://user-images.githubusercontent.com/116810935/203686730-13e9378e-c930-456d-a40b-9e0611732f3a.png)
+
+![image](https://user-images.githubusercontent.com/116810935/203686975-1f81fe89-d53b-4a40-b7b7-4a9ef8a38c64.png)
+
 
 
 
