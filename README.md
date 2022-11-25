@@ -415,7 +415,8 @@ I5 = 175 mA
 
 12)En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica
 
-![image](https://user-images.githubusercontent.com/116810935/203855203-146f37e1-fede-4124-874d-90b656dba8a1.png)
+![image](https://user-images.githubusercontent.com/116810935/203877064-f43e6444-9b25-405e-8816-7ef4c0832f02.png)
+
 
 
 
