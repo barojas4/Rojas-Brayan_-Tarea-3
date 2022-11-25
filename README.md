@@ -635,9 +635,6 @@ d)El voltaje aplicado
 
 ![image](https://user-images.githubusercontent.com/116810935/203858703-b58501b3-9301-45bd-ae2b-dc52bb7f8549.png)
 
-46)¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
-
-![image](https://user-images.githubusercontent.com/116810935/203858744-2e7a2d3a-c2b9-477f-9dbc-8d9fcaa3c42e.png)
 
 
  ## 4. Video
